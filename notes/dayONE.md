@@ -20,3 +20,13 @@ semantic tags:
 <section> → grouped content with a theme
 <article> → standalone, reusable content
 <footer> → closing info, metadata, links
+
+Tasks
+ Add paragraphs using <p>
+ Use <strong> and <em> meaningfully
+ Add:
+ One unordered list
+ One ordered list
+ Add at least 5 links:
+ One external
+ One internal placeholder
