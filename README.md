@@ -1,6 +1,3 @@
-# inspo:
-https://dribbble.com/shots/25498023-Developer-Portfolio
-
 # Portfolio Website
 
 This repository contains my personal portfolio website.
